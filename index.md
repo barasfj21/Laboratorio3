@@ -1,9 +1,13 @@
 ---
 layout: page
-title: Inicio
-tagline: Easy websites with GitHub Pages
+title: Café Colibrí
+tagline: Tienda online de café
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
+
+**Bienvenido a Café Colibrí**
+
+
 
 [Github Pages](https://pages.github.com) provide a simple way to make a
 website using
