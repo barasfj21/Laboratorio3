@@ -2,44 +2,48 @@
 layout: page
 title: Café Colibrí
 tagline: Tienda online de café
-description: Minimal tutorial on making a simple website with GitHub Pages
+description: e-commerce de Café Colibrí
 ---
 
 **Bienvenido a Café Colibrí**
 
 Bienvenidos a Café Colibrí, la tienda online donde podrás encontrar los mejores granos de café de exportación costarricense. Nuestro café es cultivado en las montañas de Costa Rica, donde el clima y la altitud son ideales para producir granos con un sabor y aroma incomparables. En Café Colibrí, nos encargamos de seleccionar cuidadosamente los granos para garantizar la calidad y frescura de cada taza que sirves. Descubre nuestra amplia selección de granos de café y conviértete en un experto en la degustación de uno de los productos más emblemáticos de Costa Rica. ¡Ordene ahora y experimente el sabor del café de alta calidad en su hogar!
 
+<div class="container">
+  
+  <ul class="slider">
+    <li id="slide1">
+      <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/3947459/car.jpg"/>
+    </li>
+    <li id="slide2">
+      <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/3947459/sunset.jpg"/>
+    </li>
+    <li id="slide3">
+      <h1>Ejemplo con otros elementos</h1>
+      <p>Esto es un párrafo de ejemplo para comprobar que podemos meter cualquier tipo de elementos en el slider</p>
+      <a href="https://kikopalomares.com/">¡Corre a mi web para más contenido!</a>
+    </li>
+  </ul>
+  
+  <ul class="menu">
+    <li>
+      <a href="#slide1">1</a>
+    </li>
+    <li>
+      <a href="#slide2">2</a>
+    </li>
+     <li>
+      <a href="#slide3">3</a>
+    </li>
+  </ul>
+  
+</div>
 
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using
-[Markdown](https://daringfireball.net/projects/markdown/) and
-[git](https://git-scm.com).
 
+- [¿Quiénes somos?](pages/quienessomos.html)
+- [Contáctenos](pages/contacto.html)
 
-
-- [Overview](pages/overview.html)
-- [Making an independent website](pages/independent_site.html)
-- [Making a personal site](pages/user_site.html)
-- [Making a site for a project](pages/project_site.html)
-- [Making a jekyll-free site](pages/nojekyll.html)
-- [Testing your site locally](pages/local_test.html)
-- [Resources](pages/resources.html)
-
-If anything here is confusing (or _wrong_!), or if I've missed
-important details, please
-[submit an issue](https://github.com/kbroman/simple_site/issues), or (even
-better) fork [the GitHub repository for this website](https://github.com/kbroman/simple_site),
-make modifications, and submit a pull request.
 
 ---
 
-The source for this minimal tutorial is [on github](https://github.com/kbroman/simple_site).
-
-Also see my [tutorials](https://kbroman.org/tutorials) on
-[git/github](https://kbroman.org/github_tutorial),
-[GNU make](https://kbroman.org/minimal_make),
-[knitr](https://kbroman.org/knitr_knutshell),
-[R packages](https://kbroman.org/pkg_primer),
-[data organization](https://kbroman.org/dataorg),
-and [reproducible research](https://kbroman.org/steps2rr).
