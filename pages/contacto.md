@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Making an independent website
+title: Contacto
 description: How to make an independent website with GitHub Pages.
 ---
 

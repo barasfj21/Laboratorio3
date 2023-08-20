@@ -7,6 +7,8 @@ description: Minimal tutorial on making a simple website with GitHub Pages
 
 **Bienvenido a Café Colibrí**
 
+Bienvenidos a Café Colibrí, la tienda online donde podrás encontrar los mejores granos de café de exportación costarricense. Nuestro café es cultivado en las montañas de Costa Rica, donde el clima y la altitud son ideales para producir granos con un sabor y aroma incomparables. En Café Colibrí, nos encargamos de seleccionar cuidadosamente los granos para garantizar la calidad y frescura de cada taza que sirves. Descubre nuestra amplia selección de granos de café y conviértete en un experto en la degustación de uno de los productos más emblemáticos de Costa Rica. ¡Ordene ahora y experimente el sabor del café de alta calidad en su hogar!
+
 
 
 [Github Pages](https://pages.github.com) provide a simple way to make a

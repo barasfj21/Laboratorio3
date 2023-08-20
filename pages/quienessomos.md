@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Overview of GitHub Pages
+title: ¿Quiénes somos?
 description: Overview of construction of a website with GitHub Pages
 ---
 
